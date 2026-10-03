@@ -1,0 +1,2 @@
+Keine Schriftdatei nötig.
+Der Bot verwendet auf dem Hosting-System vorhandene DejaVu/Liberation-Schriften.
